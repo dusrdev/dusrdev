@@ -9,5 +9,6 @@ Stats about my projects:
 * `Sharpify.Data` [![NUGET](https://img.shields.io/nuget/dt/Sharpify.Data?label=Nuget%20Downloads)](https://www.nuget.org/packages/Sharpify.Data/)
 * `Sharpify.CommandLineInterface` [![NUGET](https://img.shields.io/nuget/dt/Sharpify.CommandLineInterface?label=Nuget%20Downloads)](https://www.nuget.org/packages/Sharpify.CommandLineInterface/)
 * `Pulse` ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/dusrdev/Pulse/total?label=Downloads&labelColor=FF00AA&color=0000FF&cacheSeconds=1)
+* `ArrowDb` [![NUGET](https://img.shields.io/nuget/dt/ArrowDb?label=Nuget%20Downloads)](https://www.nuget.org/packages/ArrowDb/)
 
 Feel free to contact me via email: dusrdev@gmail.com
