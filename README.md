@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dusrdev
 - 👀 I’m interested in creating tools that contribute to the world.
-- 🌱 I’m currently studying for my bachelor's degree in Business/Computer Science in the Open University Of Israel.
+- 🌱 I’m recent graduate with a BSc in Business and Computer Science from the Open University Of Israel.
 
 Stats about my projects:
 
